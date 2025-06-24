@@ -1,0 +1,571 @@
+.container-fluid{
+    width: 100%;
+    background:#171A21;
+
+}
+ .container-hero{
+    background-image:url(images/header.png);
+    background-repeat: no-repeat;
+ }
+ 
+    /* background-size: cover; */
+ /* background-position: 0%; */
+ /* background-size: contain; */
+ /* position: relative; */
+ /* right: 400px; */
+
+
+ 
+
+.nav-link{
+    font-size: 40px;
+}
+.text-white     {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.heading{
+    margin-top: 100px;
+    font-size: 70px;
+}
+.para{
+    border-bottom:  3px solid white; 
+    width: 180px;
+    
+}
+
+.h3{
+    font-size: 40px;
+}
+.bottle{
+    margin-top: 60px;
+    /* background: #080A0A; */
+   /* padding-right: 450px; */
+   border-radius: 10px;
+}
+.primium{
+    margin-top: 60px;
+    
+
+}
+.buynow{
+    background: #eec400;
+    font-size: 30px;
+    color:black;
+    font-family: "Bebas Neue", sans-serif;
+    width: 30%;
+    margin-top: 10px;
+    border: none;
+    outline: none;
+    font-weight:bold;
+    border-radius: 5px;
+    /* animation: alternate-reverse; */
+    margin-bottom: 20px;
+}
+.reasons{
+    font-family: "Bebas Neue", sans-serif;
+    color:white;
+    text-align: center;
+    padding: 20px;
+
+}
+.container-fluid-resaons{
+    background-color: #080A0A;
+     padding-top: 50px;
+     
+     /* margin-top: 40px; */
+
+}
+.reasons{
+    font-size: 100px;
+    padding-top: 20px;
+}
+/* .para{
+    font-size: ;
+} */
+.tagline{
+    font-size: 30px;
+    font: weight 10px;
+    /* font-weight: none; */
+
+}
+.icons{
+    color: white;
+     font-family: 'Montserrat-Regular', sans-serif;
+
+     /* font-weight:bold; */
+}
+.gold{
+    background-color:#0B0D0E;
+
+}
+.cl{
+   background-color:#FFFFFF ; 
+}
+.col8{
+    background-color: white;
+
+
+
+}
+.text-dark{
+    color:#000;
+    font-family: "Bebas Neue", sans-serif;
+   font-size:70px;
+   padding-left: 80px;
+   
+   padding-top: 50px;
+   text-align: center;
+}
+.ulta{
+    background-color: white;
+    font-family: "Bebas Neue", sans-serif;
+    padding-top: 50px;
+    padding-left: 50px;
+    margin: auto;
+    position: relative;
+    right: 50px;
+}
+.ulta h1{
+    font-size: 100px;
+    text-align:left;
+    /* margin: auto; */
+}
+.level{
+    font-size:30px;
+}
+.lp{
+    font-family: 'Montserrat-Regular', sans-serif;
+    text-align: center;
+    width: 550px;
+    color: #000;
+
+}
+.card-title{
+ color: #eec400;
+
+}
+.card-body{
+    background-color:#1C212A;
+    outline: none;
+    border: none;
+    margin-top: 30px;
+    /* height: 170px; */
+
+}
+p{
+    color: white;
+
+}
+
+.cards{
+    background-color: #000;
+
+}
+.benifits{
+   background: #000;
+   /* margin-bottom: 450px; */
+}
+.bh{
+    color:white;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    padding-top: 20px;
+/* width: 50%; */
+    font-size: 120px;
+}
+
+.box1{
+    background-color: white;
+    height: 400px;
+    width:100%;
+    color: black;
+    /* margin-left: 10px; */
+    border-top-left-radius:10px ;
+    border-top-right-radius: 10px;
+    /* width: ; */
+}
+.box2{
+    background-color: white;
+    height: 400px;
+    width:100%;
+    color: black;
+    /* margin-left: 10px; */
+    border-top-left-radius:10px ;
+    border-top-right-radius: 10px;
+
+
+}
+.box3{
+    background-color: white;
+    height: 400px;
+    width:100%;
+    color: black;
+    border-top-left-radius:10px ;
+    border-top-right-radius: 10px;
+
+}
+
+.box1h{
+    padding-top:80px;
+    text-align: center;
+
+}
+.box2h{
+    padding-top:80px;
+    text-align: center;
+
+}.box3h{
+    padding-top:80px;
+    text-align: center;
+
+}
+.box1p{
+    padding-top: 30px;
+    /* text-align: center; */
+    color: #000;
+    /* display: flex; */
+    /* text-align: center; */
+    padding-left:60px;
+    /* text-align: justify; */
+    font-family: 'Montserrat-Regular', sans-serif;
+
+}
+.box2p{
+    /* text-align: center; */
+    color: #000;
+    /* display: flex; */
+    /* text-align: center; */
+    padding-left:60px;
+    /* text-align: justify; */
+    font-family: 'Montserrat-Regular', sans-serif;
+
+}.box3p{
+    /* text-align: center; */
+    color: #000;
+    /* display: flex; */
+    /* text-align: center; */
+    padding-left:60px;
+    /* text-align: justify; */
+    font-family: 'Montserrat-Regular', sans-serif;
+     /* margin-bottom: 30px; */
+
+}
+.im{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.container-fluid-ultrause{
+    background-color: #19202F;
+    background-image: url(images/ultra-gold-ingredients.png);
+
+}
+.uh{
+    color: white;
+    padding-top: 70px;
+    font-family: "Bebas Neue", sans-serif;
+    /* text-align: center; */
+    font-size: 70px;
+    /* padding-top: 40px; */
+
+}
+.tick{
+ padding-top: 10px;
+ font-family: 'Montserrat-Regular', sans-serif;
+
+}
+.container-fluid-thebenifits{
+    background-color: #000;
+    font-family: "Bebas Neue", sans-serif;
+text-align: center;
+padding-top: 80px;
+padding-bottom: 100px;
+
+}
+.benfitsheading{
+color: white;    
+font-size: 80px;
+
+}
+.score{
+    /* padding-left: 12px; */
+    /* margin-right: 20px; */
+}
+.percentage{
+    font-size:20px;
+    font-family: 'Montserrat-Regular', sans-serif;
+   
+}
+.success{
+    font-family: 'BebasNeue-Regular', sans-serif;
+    text-align: center;
+    padding-top: 130px;
+    font-size: 70px;
+    color: #000000;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.sussessp{
+    color: black;
+    text-align: center;
+  font-weight: bold;
+  padding-bottom: 100px;
+  
+}
+.best{
+    font-weight: bold;
+    padding-top: 20px;
+
+
+}
+.text{
+    color: black;
+    font-family: 'Montserrat-Regular', sans-serif;
+   line-height:50px;
+}
+.cleint{
+    color: black;
+    font-weight: bold;
+
+}
+
+.container-fluid-medicine{
+ background: #000;
+ padding-bottom: 60px;
+
+}
+.medicineh{
+    color: white;
+    padding-top: 130px;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 60px;
+    
+
+
+
+}
+.medicinep{
+    color: white;
+    font-family: 'Montserrat-Regular', sans-serif;
+
+
+}
+.container-fluid-secret{
+    background-image: url(images/secret-bg.png);
+    padding-top: 130px;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 130px;
+    background-repeat: no-repeat;
+    position: relative;
+    /* left: 100px; */
+}
+.botelimg{
+    margin-top: 170px;
+
+}
+.secretp{
+    font-size: 20px;
+    color: black;
+    
+    /* font-family: 'Montserrat-semibold', sans-serif; */
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+   
+  
+
+}
+.secreth{
+    font-size: 70px;  
+    padding-top: 270px;
+    font-weight: bold;
+    font-family: "Bebas Neue", sans-serif;
+
+}
+.secretfooter{
+  text-align: center;
+  font-size: 40px;
+  font-family: "Bebas Neue", sans-serif;
+  padding-top: 20px;
+
+  
+
+}
+.scfooter{
+    position: absolute;
+    background-color: #b64a01;
+    opacity: 0.9;
+    width: 100%;
+    height: auto;
+    bottom: 0px;
+
+}
+.increase{
+
+margin-top: 50px;
+/* text-align: center; */
+/* width: 100%; */
+}
+.increasep{
+
+    margin-top: 10px;
+    }
+.speedometer{
+
+margin-top: 45px;
+margin-left: 20px;
+
+}
+.speedometerp{
+    margin-top: 10px;
+}
+.wind{
+margin-top: 59px;
+margin-left: 20px;
+}
+.windp{
+margin-top: 10px;
+}
+.bicep{
+margin-top: 47px;
+margin-left: 30px;
+
+
+}
+.bicepp{
+    margin-top: 10px;
+}
+.smile{
+
+margin-top: 50px;
+margin-left: 30px;
+
+
+}
+.smilep{
+    margin-top: 10px;
+}
+.incredientsh{
+ text-align: center;
+ color: #000;
+ font-family: "Bebas Neue", sans-serif;
+ padding-top:100px;
+ font-size: 80px;
+}
+.incredientsp{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+   font-weight: bold;
+}
+.incredientsp1{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+.container-fluid-gurantee{
+    background-color: black;
+
+
+}
+.guranteeh{
+    padding-top: 150px;
+
+}
+.guranteep{
+    font-family: 'Times New Roman', Times, serif;
+} 
+
+.img-fluid{
+     margin-top: 130px;
+     text-align: center;
+
+}
+.container-fluid-honesty{
+    background-image: url(images/download.png);
+    background-position:right;
+   
+
+
+}
+.honestyh{
+    color: white;
+    font-size: 100px;
+    font-family: "Bebas Neue", sans-serif;
+    padding-top: 80px;
+
+
+}
+.honestyp{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+
+
+}
+.check{
+    font-size:30px;
+}
+.btn{
+    background-color: #eec400;
+}
+.ordernow{
+    background-color: #eec400;
+    border-radius: 50px;
+    outline: none;
+    border: none;
+    font-family: "Bebas Neue", sans-serif;
+    /* color: white; */
+    font-size: 35px;
+
+
+
+}
+.pricingp{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top:150px;
+    color:#6E7B93;
+    border: 1px  solid #6E7B93;
+    font-family: "Bebas Neue", sans-serif;
+    border-radius: 5px;
+    text-transform:lowercase;
+    margin-bottom: 30px;
+
+
+}
+.container-fluid-footer{
+    background:#0B0D0E;
+    /* margin-bottom: 100px; */
+    padding-bottom: 100px;
+
+
+}
+.payment{
+ padding-left: 150px;
+ 
+}
+.number{
+    color: #eec400;
+    font-weight: bold;
+   font-size: 20px;
+}
+.oursite{
+    padding-top: 120px;
+
+}
+a{
+    list-style-type: none;
+    text-decoration: none;
+    
+}
+li{
+    color: #61696E;
+  text-align:left;
+  /* text-decoration: none; */
+}
